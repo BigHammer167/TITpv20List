@@ -60,5 +60,4 @@ while True:
         print(slovo_list)
         
        
-        
-
+      
